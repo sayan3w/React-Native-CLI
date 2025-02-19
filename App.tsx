@@ -74,7 +74,7 @@ function App(): React.JSX.Element {
             padding: 20,
           }}>
           {/* Add "Hello World" here */}
-          <Text style={styles.helloWorldText}>Hello Sayan</Text>
+          <Text style={styles.helloWorldText}> Sayan</Text>
         </View>
       </ScrollView>
     </SafeAreaView>
